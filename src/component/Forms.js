@@ -71,14 +71,15 @@ function Forms() {
             {/* table data */}
         <div class="col mb-3 mx-1 my-3 ">
         <div className="container-lg">
+            <h1>Details</h1>
           <table className="table table-bordered table-hover">
             <thead>
               <tr>
                 <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Handle</th>
-                <th scope="col">Handle</th>
+                <th scope="col">Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">phone No</th>
+                <th scope="col">&nbsp;&nbsp;&nbsp;</th>
               </tr>
             </thead>
             <tbody>
