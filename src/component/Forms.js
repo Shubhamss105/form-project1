@@ -6,8 +6,14 @@ function Forms() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    setSubmittedData([...submittedData, list]);
-    setList({ name: "", email: "", phoneNo: "" });
+    if (list.name.trim() === '' || list.email.trim() === '' || list.phoneNo.trim() === '') {
+      alert("Please fill all the fields");
+    }
+      else{
+
+        setSubmittedData([...submittedData, list]);
+        setList({ name: "", email: "", phoneNo: "" });
+      }
   };
 
   const handleChange = (event) => {
