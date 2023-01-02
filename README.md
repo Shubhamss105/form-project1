@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+<h1>Forms</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>A React component that allows a user to submit a form with name, email, and phone number fields, and displays the submitted form data in a table.</p>
 
-## Available Scripts
+<h2>Features</h2>
 
-In the project directory, you can run:
+<ul>
+  <li>User can enter their name, email, and phone number in a form</li>
+  <li>User can submit the form to add the data to a table</li>
+  <li>User can delete a row from the table by clicking the "Delete" button</li>
+  <li>Form will not be submitted if any of the input fields are blank</li>
+</ul>
 
-### `npm start`
+<h2>Demo</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>You can see a live demo of the project at the following URL:</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<ul>
+  <li>https://form-project1.vercel.app/</li>
+</ul>
 
-### `npm test`
+<h2>Installation</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>To install and use this component in your project, follow these steps:</p>
 
-### `npm run build`
+<ol>
+  <li>Clone or download the repository</li>
+  <li>Navigate to the project directory</li>
+  <li>Run <code>npm install</code> to install the required dependencies</li>
+  <li>Import the <code>Forms</code> component into your code and use it in your application</li>
+</ol>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>Contact</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>If you have any questions or feedback, please feel free to contact me or visit my portfolio at the following URL:</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<ul>
+  <li>https://saurabh-srivastava.vercel.app/</li>
+</ul>
